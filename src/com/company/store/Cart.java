@@ -17,7 +17,7 @@ public class Cart {
     }
 
     public ArrayList<Product> getProducts() {
-        return products;
+        return this.products;
     }
 
     public void setProducts(ArrayList<Product> products) {
